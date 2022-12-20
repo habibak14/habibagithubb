@@ -1,0 +1,24 @@
+.img{
+	
+	max-width:100%;
+	height: auto;
+	display: block;
+}
+
+
+.btn-dark{
+	color:#e84393; 
+}
+.our-table{
+	padding: 50px 0;
+}
+.our-form{
+	background:#2d3436;
+	width: 50%;
+	padding: 25px;
+	margin: 100px auto; 
+}
+.our-form label{
+	color:#fff; 
+
+}
